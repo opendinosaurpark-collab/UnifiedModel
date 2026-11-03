@@ -1,0 +1,181 @@
+examples/loki-storage/umodel/ops.logs_to_loki.yaml
+  s_64f079d9e93b5e::t_996ff2090814fb 1-23
+sdk/go/umodel/metric_set.go
+  s_64f079d9e93b5e::t_0c97995c41c0ce 70
+internal/query/signature_alignment_test.go
+  s_64f079d9e93b5e::t_24e29956b7cda9 16,29,43-44,46-47,67,78-79,81-82
+generated/java/src/main/java/com/umodel/schema/LokiV100.java
+  s_64f079d9e93b5e::t_0045ac404cb990 1-287
+internal/umodel/schemaspec/data/metric_set.expanded.yaml
+  s_64f079d9e93b5e::t_0c97995c41c0ce 1784-1785,1793
+docs/zh/guides/loki-storage.md
+  s_64f079d9e93b5e::t_17aa268fa839ea 1-46
+docs/en/README.md
+  s_64f079d9e93b5e::t_ade9efbbb4a12f 35
+docs/zh/guides/query-service.md
+  s_64f079d9e93b5e::t_ade9efbbb4a12f 82-83
+docs/en/reference/schema/core/dataset/metric-set.md
+  s_64f079d9e93b5e::t_831ea65f559ca2 19
+skills/umodel-query/SKILL.md
+  s_64f079d9e93b5e::t_ee4d38cad20fdc 8,87
+generated/java/src/test/java/com/umodel/schema/SchemaTest.java
+  s_64f079d9e93b5e::t_0045ac404cb990 341-353
+  s_64f079d9e93b5e::t_90741a6bc546b8 334-340,354-357
+cmd/umctl/cmd/query.go
+  s_64f079d9e93b5e::t_dc7e41008a9794 4,6,8,15,36-75,113-117,128-132
+expanded_schemas/metric_set.expanded.yaml
+  s_64f079d9e93b5e::t_0c97995c41c0ce 1784-1785,1793
+examples/loki-storage/README.md
+  s_64f079d9e93b5e::t_17aa268fa839ea 1-11
+docs/zh/reference/cli.md
+  s_64f079d9e93b5e::t_57ce556248910a 149-150
+skills/umodel-query/references/metrics-logs.md
+  s_64f079d9e93b5e::t_ee4d38cad20fdc 109-131
+docs/en/reference/schema/index.md
+  s_64f079d9e93b5e::t_831ea65f559ca2 48
+internal/umodel/schemaspec/data/loki.expanded.yaml
+  s_64f079d9e93b5e::t_0045ac404cb990 1-295
+expanded_schemas/expansion_report.md
+  s_64f079d9e93b5e::t_0c97995c41c0ce 4-5,16
+  s_64f079d9e93b5e::t_0045ac404cb990 10,13-15,17-23,26-29,32,55
+sdk/python/umodel/metric_set.py
+  s_64f079d9e93b5e::t_0c97995c41c0ce 60
+cmd/umctl/cmd/root_test.go
+  s_64f079d9e93b5e::t_1d3bd468a52f91 320-336
+  s_64f079d9e93b5e::t_48621992847f03 319
+examples/loki-storage/umodel/ops.node_to_logs.yaml
+  s_64f079d9e93b5e::t_996ff2090814fb 1-23
+examples/loki-storage/umodel/ops.node_to_metrics.yaml
+  s_64f079d9e93b5e::t_996ff2090814fb 1-23
+docs/zh/README.md
+  s_64f079d9e93b5e::t_ade9efbbb4a12f 35
+docs/zh/reference/schema/index.md
+  s_64f079d9e93b5e::t_831ea65f559ca2 48
+schemas/core/dataset/metric_set.schema.yaml
+  s_64f079d9e93b5e::t_c1337a4c8a7616 88
+  s_64f079d9e93b5e::t_31ab314ec4281c 87,96
+internal/query/planner.go
+  s_64f079d9e93b5e::t_8d907b7c8e8a7a 213-215,236,239-241
+docs/.vitepress/config/schema-sidebar.json
+  s_64f079d9e93b5e::t_831ea65f559ca2 101-104,235-238
+internal/query/executor.go
+  s_64f079d9e93b5e::t_54f74adb84e33e 394-398,434-438,999-1020,1035,1079,1204-1207,1225,1524-1527,1542-1543
+  s_64f079d9e93b5e::t_7b3413b260ee7a 666
+docs/zh/reference/schema/core/storage/loki.md
+  s_64f079d9e93b5e::t_831ea65f559ca2 1-28
+internal/umodel/schemaspec/registry_test.go
+  s_64f079d9e93b5e::t_467187a350d74c 14
+pkg/model/types.go
+  s_64f079d9e93b5e::t_76ddc44f54dcad 662
+  s_64f079d9e93b5e::t_f5ae2d9a5b63bc 646-661,663-666
+docs/en/reference/mcp.md
+  s_64f079d9e93b5e::t_c4ba319dd22a16 109-110
+schemas/core/storage/loki.schema.yaml
+  s_64f079d9e93b5e::t_5d0e0ce6b4e34b 67-71
+  s_64f079d9e93b5e::t_31ab314ec4281c 1-66,72-135
+docs/zh/reference/mcp.md
+  s_64f079d9e93b5e::t_c4ba319dd22a16 110-111
+expanded_schemas/loki.expanded.yaml
+  s_64f079d9e93b5e::t_0045ac404cb990 1-295
+docs/en/reference/schema/core/storage/loki.md
+  s_64f079d9e93b5e::t_831ea65f559ca2 1-28
+generated/java/src/test/java/com/umodel/TestUModel2.java
+  s_64f079d9e93b5e::t_0045ac404cb990 142-149,305,337
+  s_64f079d9e93b5e::t_7c7818938a661e 141
+examples/loki-storage/umodel/ops.node.metrics.yaml
+  s_64f079d9e93b5e::t_996ff2090814fb 1-21
+docs/en/guides/loki-storage.md
+  s_64f079d9e93b5e::t_17aa268fa839ea 1-46
+sdk/python/umodel/loki.py
+  s_64f079d9e93b5e::t_0045ac404cb990 1-75
+examples/loki-storage/umodel/ops.node.logs.yaml
+  s_64f079d9e93b5e::t_996ff2090814fb 1-34
+sdk/go/umodel/shared_types.go
+  s_64f079d9e93b5e::t_0045ac404cb990 95-97,99,101-113,117-118,121-122,127-152,188-193,196-197,202-204,207-212,215-216,221-223,286-309,312-313,318-320,350-441,534-572,706-711,714-715,754-759,762-763,812-817,820-821
+examples/loki-storage/umodel/ops.node.yaml
+  s_64f079d9e93b5e::t_996ff2090814fb 1-22
+internal/query/loki_renderer.go
+  s_64f079d9e93b5e::t_6e0b33cfec6f40 1-34,38-209,212-220,226-237,241-295,297-298,301-302,304-309,311-312,316,323-509
+  s_64f079d9e93b5e::t_3bf3e55aab4e2a 300,310,317-319
+  s_64f079d9e93b5e::t_5d0e0ce6b4e34b 210-211,221-225,296,299,313-315,320-322
+  s_64f079d9e93b5e::t_f5ae2d9a5b63bc 238-240
+  s_64f079d9e93b5e::t_d3c00b3fae4a94 35-37,303
+expanded_schemas/validation_report.md
+  s_64f079d9e93b5e::t_0045ac404cb990 6-7,12,15,18,24,27,30,33,36,39-42,51,54,57,60,63,69,72,75,78,81,84,87
+internal/umodel/schemaspec/loki_validator_test.go
+  s_64f079d9e93b5e::t_8af0d2cc26dcbf 1-36
+internal/umodel/schemaspec/validator.go
+  s_64f079d9e93b5e::t_b264d1fa305389 5,52-54,57-111
+skills/umodel-query/scripts/run_loki_plan.py
+  s_64f079d9e93b5e::t_b60294d861371e 1-130
+docs/en/concepts/storage-and-graphstore.md
+  s_64f079d9e93b5e::t_ade9efbbb4a12f 20-22,60
+  s_64f079d9e93b5e::t_7233d768285f7f 61
+internal/query/planrender/planrender.go
+  s_64f079d9e93b5e::t_76ddc44f54dcad 45-46
+docs/zh/concepts/storage-and-graphstore.md
+  s_64f079d9e93b5e::t_ade9efbbb4a12f 18-20,58
+  s_64f079d9e93b5e::t_b29a31d8ed4d25 59
+tests/integration/loki_plan_test.go
+  s_64f079d9e93b5e::t_2b16d60ffbe464 1-127
+generated/java/src/main/java/com/umodel/schema/MetricSetV100.java
+  s_64f079d9e93b5e::t_0c97995c41c0ce 159
+docs/zh/reference/schema/core/dataset/metric-set.md
+  s_64f079d9e93b5e::t_831ea65f559ca2 19
+sdk/python/umodel/__init__.py
+  s_64f079d9e93b5e::t_0c97995c41c0ce 19
+  s_64f079d9e93b5e::t_0045ac404cb990 13,16-18,20-26,29-32,35
+generated/java/src/test/java/com/umodel/integration/TestParsingIntegrationTest.java
+  s_64f079d9e93b5e::t_0045ac404cb990 407-429
+  s_64f079d9e93b5e::t_a24644dccd1cd7 406,430-435
+skills/umodel-query/scripts/test_run_loki_plan.py
+  s_64f079d9e93b5e::t_a25dba657465bc 1-57
+generated/java/src/main/java/com/umodel/UModel.java
+  s_64f079d9e93b5e::t_0045ac404cb990 36
+examples/loki-storage/umodel/ops.loki.yaml
+  s_64f079d9e93b5e::t_996ff2090814fb 1-18
+examples/loki-storage/umodel/ops.metrics_to_loki.yaml
+  s_64f079d9e93b5e::t_996ff2090814fb 1-22
+internal/query/loki_renderer_test.go
+  s_64f079d9e93b5e::t_600ba444976b49 133-134
+  s_64f079d9e93b5e::t_4f3e3915df4d1a 1-3,5-10,12-89,91,96-124,163-164
+  s_64f079d9e93b5e::t_d1384c03f1d315 90,92-95
+  s_64f079d9e93b5e::t_3f3466412a36cb 4,11,125-132,135-162
+internal/query/renderers.go
+  s_64f079d9e93b5e::t_76ddc44f54dcad 48-49,61
+docs/en/reference/cli.md
+  s_64f079d9e93b5e::t_57ce556248910a 148-149
+sdk/go/umodel/umodel.go
+  s_64f079d9e93b5e::t_0045ac404cb990 42
+docs/en/guides/query-service.md
+  s_64f079d9e93b5e::t_ade9efbbb4a12f 87-88
+sdk/python/umodel/shared_types.py
+  s_64f079d9e93b5e::t_0045ac404cb990 66-71,96-101,136-141,211-213,215,217-219,221-229,233-234,237-252,280-285,288,291-296,299,346-369,372,393-468,545-574
+  s_64f079d9e93b5e::t_23333abdc260bd 575
+sdk/go/umodel/loki.go
+  s_64f079d9e93b5e::t_0045ac404cb990 1-98
+internal/query/parser.go
+  s_64f079d9e93b5e::t_76ddc44f54dcad 107,113,117,141
+  s_64f079d9e93b5e::t_f5ae2d9a5b63bc 126-140,142-145
+sdk/python/umodel/umodel.py
+  s_64f079d9e93b5e::t_0045ac404cb990 119-124
+  s_64f079d9e93b5e::t_132b1986ea13d5 125
+schemas/manifest.yaml
+  s_64f079d9e93b5e::t_31ab314ec4281c 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.62-ep",
+  "base_commit_sha": "1555736360f791be6dc7edcd3694801251fbd706",
+  "prompts": {},
+  "sessions": {
+    "s_64f079d9e93b5e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f11-a797-75d2-b81f-bb7c23c5702f",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "luwanlong <luwanlong@lixiang.com>"
+    }
+  }
+}
