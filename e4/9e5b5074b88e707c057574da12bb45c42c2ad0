@@ -1,0 +1,73 @@
+docs/en/reference/schema/core/dataset/runbook-set.md
+  s_64f079d9e93b5e::t_29ca6531247f74 19
+docs/en/reference/schema/shared-types.md
+  s_64f079d9e93b5e::t_9e75cfd481f276 164-199
+docs/zh/reference/schema/core/dataset/runbook-set.md
+  s_64f079d9e93b5e::t_a1ab7ea64da257 19
+docs/zh/reference/schema/shared-types.md
+  s_64f079d9e93b5e::t_e85764775e4b36 164-199
+examples/incident-investigation/platform/runbook_set/platform.service.ops.yaml
+  s_64f079d9e93b5e::t_f0e0aa4f2e20e9 446-471
+expanded_schemas/expansion_report.md
+  s_64f079d9e93b5e::t_b5fc4435781ec8 5,8-24,26-28,30,40,60,76
+expanded_schemas/runbook_set.expanded.yaml
+  s_64f079d9e93b5e::t_4205d4f8d095ec 1607-1786
+expanded_schemas/validation_report.md
+  s_64f079d9e93b5e::t_689cef6783755b 12,15,18,21,24,27,30,33,36,39,42,45,48,51-54,60,69,72,78,84,87
+generated/java/src/main/java/com/umodel/schema/RunbookSetV100.java
+  s_64f079d9e93b5e::t_2f46d136dab1b9 152-165
+generated/java/src/main/java/com/umodel/shared/ConfidenceV1.java
+  s_64f079d9e93b5e::t_1a9719ccd2e7cd 1-86
+generated/java/src/main/java/com/umodel/shared/ModelBindingV1.java
+  s_64f079d9e93b5e::t_f58fa4feca64b2 1-54
+generated/java/src/main/java/com/umodel/shared/TermV1.java
+  s_64f079d9e93b5e::t_9eaee7ac125439 1-114
+generated/java/src/test/java/com/umodel/shared/SharedTypeTest.java
+  s_64f079d9e93b5e::t_15f5b30cc52dcd 92-112,382-394,557-587
+internal/umodel/schemaspec/data/runbook_set.expanded.yaml
+  s_64f079d9e93b5e::t_1eacafed1f44be 1607-1786
+internal/umodel/schemaspec/registry.go
+  s_64f079d9e93b5e::t_3ce8414df8a8a0 232-237,303-316
+internal/umodel/schemaspec/types.go
+  s_64f079d9e93b5e::t_b5d4a2601ff0fb 25-26
+internal/umodel/schemaspec/validator_test.go
+  s_64f079d9e93b5e::t_77b91f52d05caa 212-241
+internal/umodel/schemaspec/walk.go
+  s_64f079d9e93b5e::t_95caf080001ca7 114-127
+schemas/core/dataset/runbook_set.schema.yaml
+  s_64f079d9e93b5e::t_2141ad1c5cc6d4 97-107
+schemas/includes/confidence.schema.yaml
+  s_64f079d9e93b5e::t_be85c6bfd974d3 1-66
+schemas/includes/model_binding.schema.yaml
+  s_64f079d9e93b5e::t_0ed2f1800e4370 1-32
+schemas/includes/term.schema.yaml
+  s_64f079d9e93b5e::t_126aee3a322d23 1-57
+sdk/go/umodel/runbook_set.go
+  s_64f079d9e93b5e::t_f0b14fdf72f869 60-61
+sdk/go/umodel/shared_types.go
+  s_64f079d9e93b5e::t_2efe5599df9fa9 64-70,74-75,80-82,85-96,99-100,105-107,110-119,122-123,128-130,185-254,274-276,278,280,282-287,290-291,296-298,301-303,305,307-309,311-315,317,321-322,327-390,430-439,442-443,448-450,453-455,457,459,461,463-475,479-480,485-487,551-565,567-568,571-572,577-579,582-605,608-609,614-616,619-621,623-634,637-638,643-645,767-789,793-794,799-815,819-834,873-877,881-882,887-891,895-896
+sdk/python/umodel/__init__.py
+  s_64f079d9e93b5e::t_d56152d15ec445 11-27,29-31,33
+sdk/python/umodel/runbook_set.py
+  s_64f079d9e93b5e::t_00308780c3da88 56-57
+sdk/python/umodel/shared_types.py
+  s_64f079d9e93b5e::t_ad7b4513a335fa 58-60,62-63,98-112,114-141,188-194,198-215,218-220,222,224,226-227,230,268-321,334-336,338,340,342-347,350,353-355,357,359,361,363-367,369,373-426,458-467,470,473-475,477,479,481,483-495,499,555-557,559,561,563-569,571-572,575,578-601,604,607-609,611,613,615-622,625
+tools/docs/gen_schema_reference.py
+  s_64f079d9e93b5e::t_81f9f3cd9ed57e 57-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.62-ep",
+  "base_commit_sha": "e49e5b5074b88e707c057574da12bb45c42c2ad0",
+  "prompts": {},
+  "sessions": {
+    "s_64f079d9e93b5e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19f11-a797-75d2-b81f-bb7c23c5702f",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "luwanlong <luwanlong@lixiang.com>"
+    }
+  }
+}
